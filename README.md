@@ -1,2 +1,2 @@
 # Hello-git
-my first repository
+my first repository in new branch
